@@ -1,0 +1,25 @@
+{
+    "links": [
+        {"name": "http without www", "link": "http://google.com"},
+        {"name": "http with www", "link": "http://www.google.com"},
+        {"name": "https without www", "link": "https://google.com"},
+        {"name": "https with www", "link": "https://www.google.com"},
+        {"name": "Root", "link": "/"},
+        {"name": "Absolute path", "link": "/absolute/path"},
+        {"name": "Relative path", "link": "relative/path"},
+        {"name": "Only Anchor", "link": "#anchor"},
+        {"name": "Dot", "link": "."},
+        {"name" : "Empty", "link": ""},
+        {"name": "Javascript", "link": "javascript:alert('hello')"},
+        {"name": "Email", "link": "mailto:john@example.com"},
+        {"name": "Bing", "link": "http://www.bing.com"}
+    ],
+    "encoded_link": "https://google.com/?q=hello\u002bworld",
+    "https://bing.com/?q=link+in+key": "link in key",
+    "array_of_links": [
+        "https://google.com/?q=array+element+1",
+        "https://bing.com/?q=array+element+2"
+    ],
+    "long_text": "Use https://google.com/?q=long+text+1 or https://bing.com/?q=long+text+2 to search",
+    "domain_has_dash": "https://ran-dom.com/"
+}
