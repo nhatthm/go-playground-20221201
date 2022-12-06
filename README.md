@@ -1,7 +1,7 @@
 # Playground 20221201
 
-[![Build Status](https://github.com/nhatthm/go-playground-20221201/actions/workflows/test.yaml/badge.svg?branch=dev)](https://github.com/nhatthm/go-playground-20221201/actions/workflows/test.yaml)
-[![codecov](https://codecov.io/gh/nhatthm/go-playground-20221201/branch/dev/graph/badge.svg?token=pQqEb2AUcE)](https://codecov.io/gh/nhatthm/go-playground-20221201)
+<!--[![Build Status](https://github.com/nhatthm/go-playground-20221201/actions/workflows/test.yaml/badge.svg?branch=dev)](https://github.com/nhatthm/go-playground-20221201/actions/workflows/test.yaml)
+[![codecov](https://codecov.io/gh/nhatthm/go-playground-20221201/branch/dev/graph/badge.svg?token=pQqEb2AUcE)](https://codecov.io/gh/nhatthm/go-playground-20221201)-->
 
 An awesome crawler that counts for internal and external links from given URLs.
 
